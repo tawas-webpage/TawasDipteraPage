@@ -7,6 +7,40 @@
     text-align: center;
 }
 
+body {
+    margin: 16;
+}
+
+header {
+    background-color: #000000;
+    padding: 10px;
+    text-align: center;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+nav li {
+    float: top;
+    margin-right: 10px;
+}
+
+nav a {
+    display: block;
+    color: #ff3399;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #ff3399;
+    color: black;
+}
+
 
 
 
